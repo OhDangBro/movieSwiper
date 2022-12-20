@@ -10,6 +10,8 @@
 
 ## Description
 
+
+
 This is a movie app that lets users create an account and store their favorite movies.  The user can login or signup, then navigate to the Home tab where they have the abiity to swipe through a stack of movie posters, with swiping left to remove the movie and swiping right to add to the user's library.
 
 ## Installation
